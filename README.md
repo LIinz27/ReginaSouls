@@ -6,4 +6,4 @@ Added Village Map
 
 Added Character Selection menu
 
-Added Male walk animation -Not Finished
+Added Male Walk animation

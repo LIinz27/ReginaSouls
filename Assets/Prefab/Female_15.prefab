@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 514140019074001862}
   - component: {fileID: 1089143499827742536}
   - component: {fileID: 3107384766645386492}
+  - component: {fileID: 992485091243645085}
   m_Layer: 0
   m_Name: Female_15
   m_TagString: Untagged
@@ -163,6 +164,27 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!95 &992485091243645085
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4930711369471240724}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 5776b442eb21dba47852aaf4b65b7f1d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &5667913856312500255
 GameObject:
   m_ObjectHideFlags: 0

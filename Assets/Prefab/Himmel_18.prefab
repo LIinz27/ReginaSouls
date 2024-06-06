@@ -170,7 +170,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -1877813798, guid: 41da401214280cf4899e82326922e43f, type: 3}
+  m_Sprite: {fileID: -839298493, guid: 41da401214280cf4899e82326922e43f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -190,7 +190,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 3789758500837208908}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 64ca1f079e54a834aacab6da6ecd576a, type: 3}
+  m_Script: {fileID: 11500000, guid: 53d59a10efe599440abd8ed477b5951b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 5
@@ -229,7 +229,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 0.05
+  m_AngularDrag: 0
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_IncludeLayers:
