@@ -6,4 +6,8 @@ Added Village Map
 
 Added Character Selection menu
 
-Added Male Walk animation
+Added Male animation
+- Walk
+- Attack
+
+Added Female Walk animation

@@ -45,7 +45,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 32
@@ -7712,13 +7712,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Himmel_387
+      name: AttackU1
       rect:
         serializedVersion: 2
-        x: 46
-        y: 2176
-        width: 65
-        height: 60
+        x: 21
+        y: 2143
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7733,13 +7733,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Himmel_389
+      name: AttackU5
       rect:
         serializedVersion: 2
-        x: 821
-        y: 2176
-        width: 81
-        height: 68
+        x: 789
+        y: 2144
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7754,13 +7754,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Himmel_390
+      name: AttackU6
       rect:
         serializedVersion: 2
-        x: 1040
-        y: 2176
-        width: 79
-        height: 87
+        x: 983
+        y: 2142
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7775,13 +7775,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Himmel_391
+      name: AttackU2
       rect:
         serializedVersion: 2
-        x: 255
-        y: 2176
-        width: 48
-        height: 47
+        x: 212
+        y: 2141
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7796,13 +7796,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Himmel_392
+      name: AttackU3
       rect:
         serializedVersion: 2
-        x: 448
-        y: 2176
-        width: 45
-        height: 47
+        x: 404
+        y: 2140
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7817,13 +7817,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Himmel_393
+      name: AttackU4
       rect:
         serializedVersion: 2
-        x: 627
-        y: 2176
-        width: 60
-        height: 48
+        x: 596
+        y: 2141
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7838,13 +7838,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Himmel_394
+      name: AttackL1
       rect:
         serializedVersion: 2
-        x: 26
-        y: 1959
-        width: 82
-        height: 74
+        x: 20
+        y: 1956
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7859,13 +7859,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Himmel_395
+      name: AttackL2
       rect:
         serializedVersion: 2
-        x: 259
-        y: 1984
-        width: 39
-        height: 47
+        x: 211
+        y: 1955
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7880,13 +7880,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Himmel_396
+      name: AttackL3
       rect:
         serializedVersion: 2
-        x: 464
-        y: 1984
-        width: 38
-        height: 49
+        x: 402
+        y: 1955
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7901,13 +7901,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Himmel_397
+      name: AttackL4
       rect:
         serializedVersion: 2
-        x: 636
-        y: 1984
-        width: 98
-        height: 49
+        x: 592
+        y: 1955
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7922,13 +7922,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Himmel_398
+      name: AttackL5
       rect:
         serializedVersion: 2
-        x: 764
-        y: 1984
-        width: 132
-        height: 56
+        x: 785
+        y: 1954
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7943,13 +7943,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Himmel_399
+      name: AttackL6
       rect:
         serializedVersion: 2
-        x: 977
-        y: 1984
-        width: 111
-        height: 49
+        x: 976
+        y: 1953
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7964,13 +7964,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Himmel_401
+      name: AttackR1
       rect:
         serializedVersion: 2
-        x: 50
-        y: 1770
-        width: 61
-        height: 72
+        x: 24
+        y: 1575
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7985,13 +7985,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Himmel_402
+      name: AttackR2
       rect:
         serializedVersion: 2
-        x: 250
-        y: 1792
-        width: 53
-        height: 50
+        x: 213
+        y: 1575
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8006,13 +8006,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Himmel_403
+      name: AttackR3
       rect:
         serializedVersion: 2
-        x: 448
-        y: 1792
-        width: 45
-        height: 48
+        x: 404
+        y: 1575
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8027,13 +8027,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Himmel_404
+      name: AttackR4
       rect:
         serializedVersion: 2
-        x: 632
-        y: 1792
-        width: 56
-        height: 49
+        x: 598
+        y: 1575
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8048,13 +8048,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Himmel_405
+      name: AttackR5
       rect:
         serializedVersion: 2
-        x: 821
-        y: 1754
-        width: 81
-        height: 88
+        x: 792
+        y: 1575
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8069,13 +8069,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Himmel_406
+      name: AttackR6
       rect:
         serializedVersion: 2
-        x: 1040
-        y: 1756
-        width: 79
-        height: 86
+        x: 985
+        y: 1575
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8085,132 +8085,6 @@ TextureImporter:
       bones: []
       spriteID: a82cdfc2770bbc44bb3ed5720a987bd6
       internalID: 1973231330
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Himmel_407
-      rect:
-        serializedVersion: 2
-        x: 83
-        y: 1575
-        width: 83
-        height: 74
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 152eaab9d45c07a46b382c8908b791a2
-      internalID: -90192274
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Himmel_408
-      rect:
-        serializedVersion: 2
-        x: 277
-        y: 1600
-        width: 40
-        height: 47
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6e8747274961b10419c8b82235514673
-      internalID: 1407775188
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Himmel_409
-      rect:
-        serializedVersion: 2
-        x: 458
-        y: 1600
-        width: 37
-        height: 49
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6a761b651858cd34794abe998181b6d7
-      internalID: -915357764
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Himmel_410
-      rect:
-        serializedVersion: 2
-        x: 610
-        y: 1600
-        width: 98
-        height: 60
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7f158182f2a7db44ea83523c43322d38
-      internalID: 1971574022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Himmel_411
-      rect:
-        serializedVersion: 2
-        x: 832
-        y: 1600
-        width: 132
-        height: 56
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 205f343418644554386a9adbb5e9d641
-      internalID: 589471607
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Himmel_412
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 1600
-        width: 111
-        height: 49
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e32498549c935474497f2c081d81baad
-      internalID: 919729050
       vertices: []
       indices: 
       edges: []
@@ -8468,13 +8342,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Himmel_425
+      name: AttackD1
       rect:
         serializedVersion: 2
-        x: 80
-        y: 1024
-        width: 68
-        height: 52
+        x: 24
+        y: 990
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8489,13 +8363,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Himmel_426
+      name: AttackD2
       rect:
         serializedVersion: 2
-        x: 273
-        y: 1024
-        width: 74
-        height: 50
+        x: 216
+        y: 990
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8510,13 +8384,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Himmel_427
+      name: AttackD3
       rect:
         serializedVersion: 2
-        x: 465
-        y: 1024
-        width: 81
-        height: 49
+        x: 407
+        y: 990
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8531,13 +8405,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Himmel_428
+      name: AttackD4
       rect:
         serializedVersion: 2
-        x: 627
-        y: 1022
-        width: 97
-        height: 50
+        x: 596
+        y: 990
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8552,13 +8426,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Himmel_429
+      name: AttackD5
       rect:
         serializedVersion: 2
-        x: 826
-        y: 1024
-        width: 53
-        height: 50
+        x: 787
+        y: 990
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -9402,6 +9276,29 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      AttackD1: 328529552
+      AttackD2: -480419738
+      AttackD3: -785701206
+      AttackD4: -2041041083
+      AttackD5: -123089690
+      AttackL1: -190048376
+      AttackL2: 1873867490
+      AttackL3: -974578584
+      AttackL4: -1201130247
+      AttackL5: 1781052722
+      AttackL6: 687650628
+      AttackR1: -1122720554
+      AttackR2: -1532112038
+      AttackR3: 132893642
+      AttackR4: -1936642983
+      AttackR5: -1739560201
+      AttackR6: 1973231330
+      AttackU1: 1925584377
+      AttackU2: 1622956381
+      AttackU3: 1554117814
+      AttackU4: 1495012465
+      AttackU5: 1123591634
+      AttackU6: -1684142629
       Himmel_0: 1796571905
       Himmel_1: 1711492508
       Himmel_10: 1195340226
@@ -9722,29 +9619,11 @@ TextureImporter:
       Himmel_384: -1308143612
       Himmel_385: -1795637009
       Himmel_386: -1875836558
-      Himmel_387: 1925584377
       Himmel_388: 152444922
-      Himmel_389: 1123591634
       Himmel_39: -2122610876
-      Himmel_390: -1684142629
-      Himmel_391: 1622956381
-      Himmel_392: 1554117814
-      Himmel_393: 1495012465
-      Himmel_394: -190048376
-      Himmel_395: 1873867490
-      Himmel_396: -974578584
-      Himmel_397: -1201130247
-      Himmel_398: 1781052722
-      Himmel_399: 687650628
       Himmel_4: 143903833
       Himmel_40: -1908653094
       Himmel_400: -148976955
-      Himmel_401: -1122720554
-      Himmel_402: -1532112038
-      Himmel_403: 132893642
-      Himmel_404: -1936642983
-      Himmel_405: -1739560201
-      Himmel_406: 1973231330
       Himmel_407: -90192274
       Himmel_408: 1407775188
       Himmel_409: -915357764
@@ -9765,11 +9644,6 @@ TextureImporter:
       Himmel_422: 513472408
       Himmel_423: 1370950451
       Himmel_424: -951930618
-      Himmel_425: 328529552
-      Himmel_426: -480419738
-      Himmel_427: -785701206
-      Himmel_428: -2041041083
-      Himmel_429: -123089690
       Himmel_43: -1846190515
       Himmel_430: -2027234176
       Himmel_431: 123791972
