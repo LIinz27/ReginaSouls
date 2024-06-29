@@ -9,5 +9,8 @@ Added Character Selection menu
 Added Male animation
 - Walk
 - Attack
+- Hitbox
 
 Added Female Walk animation
+
+Added Enemy (Not Complete)

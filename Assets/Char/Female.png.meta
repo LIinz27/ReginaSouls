@@ -7586,13 +7586,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Female_369
+      name: AttackU1
       rect:
         serializedVersion: 2
-        x: 64
-        y: 2176
-        width: 48
-        height: 64
+        x: 21
+        y: 2147
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7607,13 +7607,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Female_370
+      name: AttackU2
       rect:
         serializedVersion: 2
-        x: 255
-        y: 2176
-        width: 49
-        height: 49
+        x: 212
+        y: 2147
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7628,13 +7628,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Female_371
+      name: AttackU3
       rect:
         serializedVersion: 2
-        x: 448
-        y: 2176
-        width: 47
-        height: 49
+        x: 403
+        y: 2147
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7649,13 +7649,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Female_372
+      name: AttackU4
       rect:
         serializedVersion: 2
-        x: 629
-        y: 2176
-        width: 60
-        height: 50
+        x: 597
+        y: 2147
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7670,13 +7670,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Female_373
+      name: AttackU5
       rect:
         serializedVersion: 2
-        x: 821
-        y: 2176
-        width: 81
-        height: 68
+        x: 790
+        y: 2147
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7694,10 +7694,10 @@ TextureImporter:
       name: Female_374
       rect:
         serializedVersion: 2
-        x: 1040
-        y: 2176
-        width: 79
-        height: 65
+        x: 982
+        y: 2147
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7712,13 +7712,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Female_375
+      name: AttackL1
       rect:
         serializedVersion: 2
-        x: 52
-        y: 1984
-        width: 57
-        height: 51
+        x: 19
+        y: 1953
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7733,13 +7733,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Female_376
+      name: AttackL2
       rect:
         serializedVersion: 2
-        x: 267
-        y: 1984
-        width: 32
-        height: 49
+        x: 210
+        y: 1953
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7754,13 +7754,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Female_377
+      name: AttackL3
       rect:
         serializedVersion: 2
-        x: 464
-        y: 1984
-        width: 38
-        height: 51
+        x: 402
+        y: 1953
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7775,13 +7775,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Female_378
+      name: AttackL4
       rect:
         serializedVersion: 2
-        x: 646
-        y: 1984
-        width: 57
-        height: 51
+        x: 595
+        y: 1953
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7796,13 +7796,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Female_379
+      name: AttackL5
       rect:
         serializedVersion: 2
         x: 783
-        y: 1984
-        width: 93
-        height: 51
+        y: 1953
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7817,13 +7817,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Female_380
+      name: AttackL6
       rect:
         serializedVersion: 2
         x: 977
-        y: 1984
-        width: 91
-        height: 51
+        y: 1953
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7838,13 +7838,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Female_381
+      name: AttackD1
       rect:
         serializedVersion: 2
-        x: 72
-        y: 1791
-        width: 40
-        height: 52
+        x: 21
+        y: 1760
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7859,13 +7859,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Female_382
+      name: AttackD2
       rect:
         serializedVersion: 2
-        x: 255
-        y: 1792
-        width: 49
-        height: 51
+        x: 212
+        y: 1760
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7880,13 +7880,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Female_383
+      name: AttackD3
       rect:
         serializedVersion: 2
-        x: 448
-        y: 1792
-        width: 47
-        height: 49
+        x: 403
+        y: 1760
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7901,13 +7901,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Female_384
+      name: AttackD4
       rect:
         serializedVersion: 2
-        x: 632
-        y: 1792
-        width: 58
-        height: 50
+        x: 598
+        y: 1760
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7922,13 +7922,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Female_385
+      name: AttackD5
       rect:
         serializedVersion: 2
-        x: 821
-        y: 1775
-        width: 81
-        height: 68
+        x: 791
+        y: 1760
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7943,13 +7943,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Female_386
+      name: AttackD6
       rect:
         serializedVersion: 2
-        x: 1040
-        y: 1778
-        width: 79
-        height: 65
+        x: 983
+        y: 1760
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7964,13 +7964,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Female_387
+      name: AttackR1
       rect:
         serializedVersion: 2
-        x: 83
-        y: 1600
-        width: 57
-        height: 51
+        x: 22
+        y: 1570
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7985,13 +7985,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Female_388
+      name: AttackR2
       rect:
         serializedVersion: 2
-        x: 277
-        y: 1600
-        width: 32
-        height: 49
+        x: 215
+        y: 1570
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8006,13 +8006,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Female_389
+      name: AttackR3
       rect:
         serializedVersion: 2
-        x: 458
-        y: 1600
-        width: 37
-        height: 51
+        x: 408
+        y: 1570
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8027,13 +8027,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Female_390
+      name: AttackR4
       rect:
         serializedVersion: 2
-        x: 641
-        y: 1600
-        width: 57
-        height: 51
+        x: 601
+        y: 1570
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8048,13 +8048,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Female_391
+      name: AttackR5
       rect:
         serializedVersion: 2
-        x: 852
-        y: 1600
-        width: 93
-        height: 51
+        x: 794
+        y: 1570
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8069,13 +8069,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Female_392
+      name: AttackR6
       rect:
         serializedVersion: 2
-        x: 1044
-        y: 1600
-        width: 91
-        height: 51
+        x: 985
+        y: 1570
+        width: 150
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -9276,6 +9276,29 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      AttackD1: -440122498
+      AttackD2: -2081140636
+      AttackD3: 113088231
+      AttackD4: 825699499
+      AttackD5: 608189676
+      AttackD6: 219605693
+      AttackL1: 1098238231
+      AttackL2: 2012811684
+      AttackL3: 336353331
+      AttackL4: -1908185988
+      AttackL5: 1774925606
+      AttackL6: -1561761067
+      AttackR1: 35381060
+      AttackR2: 583932238
+      AttackR3: 993895935
+      AttackR4: -1953081482
+      AttackR5: -348395390
+      AttackR6: 675489537
+      AttackU1: -907092270
+      AttackU2: 972455466
+      AttackU3: -163583225
+      AttackU4: 258781065
+      AttackU5: 1283232932
       Female_0: 643413540
       Female_1: 1403331156
       Female_10: 1109816655
@@ -9576,33 +9599,10 @@ TextureImporter:
       Female_366: -963910411
       Female_367: -31800825
       Female_368: 1459959329
-      Female_369: -907092270
       Female_37: 1409065009
-      Female_370: 972455466
-      Female_371: -163583225
-      Female_372: 258781065
-      Female_373: 1283232932
       Female_374: -91517255
-      Female_375: 1098238231
-      Female_376: 2012811684
-      Female_377: 336353331
-      Female_378: -1908185988
-      Female_379: 1774925606
       Female_38: -652729549
-      Female_380: -1561761067
-      Female_381: -440122498
-      Female_382: -2081140636
-      Female_383: 113088231
-      Female_384: 825699499
-      Female_385: 608189676
-      Female_386: 219605693
-      Female_387: 35381060
-      Female_388: 583932238
-      Female_389: 993895935
       Female_39: -1693664162
-      Female_390: -1953081482
-      Female_391: -348395390
-      Female_392: 675489537
       Female_393: -41741333
       Female_394: 1999111694
       Female_395: 623849591

@@ -3,6 +3,7 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     public float moveSpeed = 5f;
+    public Transform attackPoint; // Referensi ke GameObject AttackHitbox
     private Rigidbody2D rb;
     private Vector2 moveInput;
     private Vector2 lastMoveDirection; // Variabel untuk menyimpan arah terakhir
@@ -14,6 +15,7 @@ public class PlayerController : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         rb.freezeRotation = true;
         animator = GetComponent<Animator>();
+        attackPoint.gameObject.SetActive(false); // Pastikan hitbox tidak aktif di awal
     }
 
     private void Update()
@@ -77,5 +79,17 @@ public class PlayerController : MonoBehaviour
         isAttacking = false;
         animator.SetBool("isAttacking", false);
         Debug.Log("Attack ended");
+    }
+
+    // Metode ini dipanggil oleh event animasi pada awal animasi memukul
+    public void EnableHitbox()
+    {
+        attackPoint.gameObject.SetActive(true);
+    }
+
+    // Metode ini dipanggil oleh event animasi pada akhir animasi memukul
+    public void DisableHitbox()
+    {
+        attackPoint.gameObject.SetActive(false);
     }
 }

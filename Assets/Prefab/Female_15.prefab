@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 992485091243645085}
   m_Layer: 0
   m_Name: Female_15
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -102,6 +102,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 5
+  attackPoint: {fileID: 0}
 --- !u!70 &1089143499827742536
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
