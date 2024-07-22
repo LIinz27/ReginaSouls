@@ -20,6 +20,8 @@ public class PlayerController : MonoBehaviour
 
     private void Update()
     {
+        rb.velocity = Vector3.zero;
+
         if (!isAttacking)
         {
             moveInput.x = Input.GetAxisRaw("Horizontal");
@@ -46,6 +48,7 @@ public class PlayerController : MonoBehaviour
 
     private void FixedUpdate()
     {
+        
         if (moveInput != Vector2.zero && !isAttacking)
         {
             Vector2 newPosition = rb.position + moveInput.normalized * moveSpeed * Time.fixedDeltaTime;

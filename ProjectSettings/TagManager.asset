@@ -4,7 +4,11 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Enemy
+  - health
+  - enemy
+  - score
+  - gameover
+  - potion
   layers:
   - Default
   - TransparentFX
@@ -12,8 +16,8 @@ TagManager:
   - 
   - Water
   - UI
-  - SolidObject
-  - Nature
+  - 
+  - 
   - 
   - 
   - 
@@ -42,15 +46,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Nature
-    uniqueID: 289768915
+  - name: Game
+    uniqueID: 923963891
     locked: 0
-  - name: SolidObject
-    uniqueID: 392681179
-    locked: 0
-  - name: Char
-    uniqueID: 1815650021
-    locked: 0
-  - name: Enemy
-    uniqueID: 3761858693
+  - name: UI
+    uniqueID: 1439058273
     locked: 0

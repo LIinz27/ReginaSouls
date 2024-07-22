@@ -6,9 +6,13 @@ public class AttackHitbox : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Enemy"))
+        if (other.CompareTag("enemy"))
         {
+            Debug.Log("Dapat Musuh");
             other.GetComponent<Enemy>().TakeDamage(attackDamage);
+         
         }
     }
 }
+
+
