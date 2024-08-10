@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+    public AttackHitbox attackHitbox;
     public float moveSpeed = 5f;
     public Transform attackPoint; // Referensi ke GameObject AttackHitbox
     private Rigidbody2D rb;
@@ -48,7 +49,6 @@ public class PlayerController : MonoBehaviour
 
     private void FixedUpdate()
     {
-        
         if (moveInput != Vector2.zero && !isAttacking)
         {
             Vector2 newPosition = rb.position + moveInput.normalized * moveSpeed * Time.fixedDeltaTime;
@@ -72,6 +72,11 @@ public class PlayerController : MonoBehaviour
             animator.SetFloat("moveX", moveInput.x);
             animator.SetFloat("moveY", moveInput.y);
         }
+
+        // Set the hitbox offset based on the last move direction
+        Vector2 attackDirection = new Vector2(animator.GetFloat("moveX"), animator.GetFloat("moveY"));
+        attackHitbox.SetOffset(attackDirection);
+        attackHitbox.FlipHitbox(attackDirection);
         
         Debug.Log($"Attack started: moveX={animator.GetFloat("moveX")}, moveY={animator.GetFloat("moveY")}");
     }
